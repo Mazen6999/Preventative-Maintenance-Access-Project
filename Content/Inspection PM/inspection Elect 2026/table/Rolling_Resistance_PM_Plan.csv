@@ -1,0 +1,21 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+Rolling Resistance Machine,Rolling Resistance,1,Cleaning Visual Signaling Devices,8.1,60,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Rolling Resistance Machine,Rolling Resistance,2,Checking Emergency,8.2,60,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Rolling Resistance Machine,Rolling Resistance,3,Manual Movements Check,8.3,30,1M,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Rolling Resistance Machine,Rolling Resistance,4,Checking Electric Boards Filters,8.4,60,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Rolling Resistance Machine,Rolling Resistance,5,Checking Safety Doors,8.5,20,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Rolling Resistance Machine,Rolling Resistance,6,General Clean,8.6,30,1M,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Rolling Resistance Machine,Rolling Resistance,7,Cleaning Air Filters,8.7,90,1M,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Rolling Resistance Machine,Rolling Resistance,8,Checking pneumatic leakage,8.8,20,1M,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Rolling Resistance Machine,Rolling Resistance,9,Checking sensors fixation,8.9,10,1M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+Rolling Resistance Machine,Rolling Resistance,10,Checking mechanical stops original positions,9.0,20,1M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+Rolling Resistance Machine,Rolling Resistance,11,Replacing Electric Boards Filters,9.1,60,1E,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rolling Resistance Machine,Rolling Resistance,12,Replacing compressed air Filters,9.2,30,1M,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rolling Resistance Machine,Rolling Resistance,13,Calibrating transducers,9.3,60,1E,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rolling Resistance Machine,Rolling Resistance,14,Checking pneumatic valves,9.4,60,1M,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rolling Resistance Machine,Rolling Resistance,15,Checking hub bearing,9.5,60,1M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+Rolling Resistance Machine,Rolling Resistance,16,Checking grease level of drum,9.6,60,1M,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rolling Resistance Machine,Rolling Resistance,17,Checking seal conditions,9.7,30,1M,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rolling Resistance Machine,Rolling Resistance,18,Checking roller belt wear condition,9.8,60,1M,26,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Rolling Resistance Machine,Rolling Resistance,19,Cleaning filter of the motor,9.9,60,1E,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Rolling Resistance Machine,Rolling Resistance,20,Checking drives,10.0,60,1E,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

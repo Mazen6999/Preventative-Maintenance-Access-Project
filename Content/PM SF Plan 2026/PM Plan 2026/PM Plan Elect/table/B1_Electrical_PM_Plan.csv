@@ -1,0 +1,15 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+B1,,25,clean & check brushes & commutators,100,60,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B1,,26,clean motors filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B1,,27,check motors connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,
+B1,,28,clean and check contactors,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,29,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,30,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,31,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B1,,32,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+B1,,33,check thermoregulation (M),195,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+B1,,34,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,
+B1,,35,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,
+B1,,36,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,37,Check motor break,235,90,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,38,Clean and check brushes of clutch,240,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x

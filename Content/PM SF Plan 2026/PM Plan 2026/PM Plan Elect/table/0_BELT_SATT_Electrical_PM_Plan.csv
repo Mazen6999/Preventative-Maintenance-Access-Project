@@ -1,0 +1,29 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+0-BELT.1,,2,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+0-BELT.1,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+0-BELT.1,,4,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.1,,5,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.1,,6,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.1,,7,check safeties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+0-BELT.1,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.1,,9,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.1,,10,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.1,,11,clean and fix photocell,180,10,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.2,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+0-BELT.2,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.2,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.2,,4,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.2,,5,check safeties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+0-BELT.2,,6,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.2,,7,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.2,,8,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.2,,9,clean and fix photocell,180,10,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+SATT,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+SATT,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+SATT,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+SATT,,4,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+SATT,,5,check safeties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+SATT,,6,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+SATT,,7,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+SATT,,8,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+SATT,,9,clean and fix photocell,180,10,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,

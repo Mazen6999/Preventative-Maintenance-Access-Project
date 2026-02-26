@@ -1,0 +1,27 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+BELT COUPLING,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+BELT COUPLING,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,4,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,5,check safeties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+BELT COUPLING,,6,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+BELT COUPLING,,7,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+BELT COUPLING,,8,check coupling of encoders,215,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+BELT COUPLING,,9,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,10,clean & fix photocell,180,10,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+PANDENA.1,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+PANDENA.1,,2,clean and check contactor,160,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.1,,3,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.1,,4,check panel air condition,150,15,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.1,,5,check safeties,170,30,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+PANDENA.1,,6,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+PANDENA.1,,7,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.1,,8,clean & fix photocell,180,10,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+PANDENA.2,,2,clean and check contactor,160,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,3,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,4,check panel air condition,150,15,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,5,check safeties,170,30,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+PANDENA.2,,6,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+PANDENA.2,,7,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,8,clean & fix photocell,180,10,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,

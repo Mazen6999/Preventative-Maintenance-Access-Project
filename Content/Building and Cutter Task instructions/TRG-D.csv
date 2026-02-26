@@ -1,0 +1,90 @@
+﻿Header,Task_Code,Task_Title,Crafts,Frequency,Time,Section,Discipline,Warning_Text,Steps_Text,issue,Issue_No,Issue_Date,Reviewed_By,Approved_By
+Fo-I/E-24   Issue(1)   Rev(0),700,Check pump filter.,1 Mechanic,4 WEEKS,20 min,P. Maintenance of  BUILDING MACHINE,Mechanical,Disconnect main c.b. and hold caution label,"1- Disassemble oil filter.
+2- Check that the filter is clean, if not, clean or rechange.",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),701,Check the fixation of the center steel,1 Mechanic,4 WEEKS,40 MIN,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Check the fixation screws
+2- If broken replace them
+3- Tight them well and make sure the drum is freely rotating",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),702,Lubricate mandrel shaft and bead holder,1 Mechanic,4 WEEKS,15 MIN,P. Maintenance of  BUILDING MACHINE,Mechanical,,"Use the hand grease gun and lubricate the grease nipples located in the
+shaft and bead holders with 5 strokes using Mobil B2 .",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),703,Change the oil of rotation and translation gearbox,1 Mechanic,52 WEEKS,40 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Remove the drain plug and dump old oil in special barrel for
+recycling then put the plug again.
+2- Refill the grarbox with oil Mobil 632 till the level indicated on
+the glass window is reached",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),704,Change the mandrel gearbox oil,1 Mechanic,52 WEEKs,70 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Remove the gearbox rear cover
+2- Dump the old oil using a hand pump
+3- Refill the gearbox with oil using Mobil 629 till the level
+indicator is covered with oil",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),710,Clean transfer bearing,1 Mechanic,4 WEEKS,45 min,P. Maintenance of  BUILDING MACHINE,Mechanical,Turn off the electric power,"1- remove the bearing fixation pallets
+2- Replace the bearings incase of damaged
+3- fix the pallets again and relubricate the bearing using Mobil B2",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),711,Lubrication of transfer unit,1 Mechanic,4 WEEKS,10 Min,P. Maintenance of  BUILDING MACHINE,Mechanical,Turn off electric power,"Remove the transfer base cover and lubricate all nipples with
+hand grease gun using Mobil B2",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),720,Check conveyor belts number and condition,2 Mechanic,4 WEEKS,25 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Visualy check the number and condition of liner and ply
+conveyor belts
+2- Replace any belt incase of damaged
+3- Adjust the belt roller position to adjust belt tension",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),721,Check the liner blades condition and clearance,1 Mechanic,4 WEEKS,30 min,P. Maintenance of  BUILDING MACHINE,Mechanical,Turn the knife controller onto manual position,"1- Check the clearance using a filler anf adjust if required
+2- Control the knife manually and cut a material
+3- Grind the knife if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),722,Adjust liner and ply tray speed,2 Mechanic,4 WEEKS,20 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Check manually the raise and lower speed of the tray
+2- Adjust the flow regulator located at the tray lifting cylinders
+to adjust the speed if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),723,Check the ply brushes and guides,1 Mechanic,4 WEEKS,15 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Check the condition of the brush and replace if required
+2- Check the guide distance and adjust through the adjusting
+screws if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),724,Check the trays level from the drum,1 Mechanic,4 WEEKS,20 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Lower the tray and check its level from the drum
+2- Adjust the level if required from the stop block located on
+the lifting cylinder rod",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),725,Lubricate the bearing housing and knife rod,1 Mechanic,26 WEEKS,25 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Use the grease hand gun to lubricate the bearing housing until the
+new grease appears around the bearing using Mobil B2
+2- Lubricate the outer surface of liner knife for smooth sliding",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),726,Change liner and ply and knife gearbox oil,1 Mechanic,52 WEEKS,60 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Remove the drain plug and dump old oil in special barrel for
+recycling then put the plug again.
+2- Refill the grarbox with oil Mobil 632 till the level indicated on
+the glass window is reached",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),731,Check the bushes of the stitching bench,1 Mechanic,4 WEEKS,30 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Move the stitching arms with hand to check the bushes
+conditions
+2- Replace the bushes in case if they are loose",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),732,Lubricate the stitching bench,1 Mechanic,4 WEEKS,30 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Move the stitching bench forward to lubricate the grease
+nipples located at the back
+2- Move the stitching bench backward to lubricate the grease
+nipples located at the front using Mobil B2",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),740,Check belts guides position,1 Mechanic,1 WEEKS,20 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Check the guide distance and adjust through the adjusting
+screws if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),741,Check the service belt tray rollers,1 Mechanic,4 WEEKS,30 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Check the conditions of the rollers and replace with the same
+size if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),742,Check the movement of the service belt carriage,2 Mechanic,4 WEEKS,20 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Move the carriage right and left and check its speed and
+stopping conditions
+2- Adjust the speed from the flow regulator located on the
+bottom cylinder",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),743,Lubricate the bobbin bearing housing,1 Mechanic,26 WEEKs,25 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Use the grease hand gun to lubricate the bearing housing until the
+new grease appears around the bearing using Mobil B2",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),744,Check the bobbin gearbox oil,1 Mechanic,52 WEEKs,90 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Remove the drain plug and dump old oil in special barrel for
+recycling then put the plug again.
+2- Refill the grarbox with oil Mobil 632 till the level indicated on
+the glass window is reached",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),750,Check the tread feeder rollers,1 Mechanic,4WEEKS,20 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),760,Lubricate the auxiliary drum shaft,1 Mechanic,4 WEEKS,10 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"Use the hand grease gun and lubricate the grease nipples located
+in the shaft using Mobil B2 .",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),761,Change the oil of the auxiliary drum gearbox,1 Mechanic,52 WEEKs,30 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Remove the drain plug and dump old oil in special barrel for
+recycling then put the plug again.
+2- Refill the grarbox with oil Mobil 632 till the level indicated on
+the glass window is reached",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),770,General check on air leakage,2 Mechanic,4 WEEKS,60 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Check the sound of air leakage in air panels
+2- Test the rotary for air leakage through any of its passages
+3- Move the stitching bench arms and check for air leakage
+during its movment",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),771,General machine cleaning,2 Mechanic,4 WEEKS,60 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Clean the transfer movement guides
+2- Clean the stitching bench sliding guides
+3- Clean beneath the mandrel drum and stitching bench
+4- Clean the sliding rollers for ply bobbin carriage
+5- Clean any rubber accumulation on the ground in the machine",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),772,check of oil leakage of main gearbox,2 Mechanic,4 WEEKS,60 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Visual inspection of all points in gearbox.
+2- check oil level inside the gearbox .
+3- check the oil seal of all joints.
+4- check that there  is no any leakage in any connection point.",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),772,check of oil leakage of main gearbox,2 Mechanic,4 WEEKS,60 min,P. Maintenance of  BUILDING MACHINE,Mechanical,,"1- Visual inspection of all points in gearbox.
+2- check oil level inside the gearbox .
+3- check the oil seal of all joints.
+4- check that there  is no any leakage in any connection point.",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa

@@ -1,0 +1,391 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+0-BELT.1,,2,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+0-BELT.1,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+0-BELT.1,,4,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.1,,5,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.1,,6,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.1,,7,check safeties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+0-BELT.1,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.1,,9,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.1,,10,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.1,,11,clean and fix photocell,180,10,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.2,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+0-BELT.2,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.2,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.2,,4,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.2,,5,check safeties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+0-BELT.2,,6,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.2,,7,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+0-BELT.2,,8,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+0-BELT.2,,9,clean and fix photocell,180,10,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+SATT,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+SATT,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+SATT,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+SATT,,4,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+SATT,,5,check safeties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+SATT,,6,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+SATT,,7,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+SATT,,8,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+SATT,,9,clean and fix photocell,180,10,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+B1,,25,clean & check brushes & commutators,100,60,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B1,,26,clean motors filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B1,,27,check motors connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,
+B1,,28,clean and check contactors,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,29,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,30,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,31,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B1,,32,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+B1,,33,check thermoregulation (M),195,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+B1,,34,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,
+B1,,35,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,
+B1,,36,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,37,Check motor break,235,90,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B1,,38,Clean and check brushes of clutch,240,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B2.01.01,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+B2.01.01,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B2.01.01,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B2.01.01,,4,check safties and mill brake,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B2.01.01,,5,check limits and prox. Sw,190,30,1,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+B2.01.01,,6,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B2.01.01,,7,"check, clean slip ring brushes",225,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B2.01.01,,8,check flow meter,230,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+B2.02.01,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+B2.02.01,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+B2.02.01,,3,clean the panel,140,30,1,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+B2.02.01,,4,check safties and mill brake,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B2.02.01,,5,check limits and prox. Sw,190,30,1,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+B2.02.01,,6,check panel connection,220,30,1,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+B2.02.01,,7,"check, clean slip ring brushes",225,45,1,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+B2.02.01,,8,check flow meter,230,15,1,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+B2.03.01,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,
+B2.03.01,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,
+B2.03.01,,3,clean the panel,140,30,1,13,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,
+B2.03.01,,4,check safties and mill brake,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+B2.03.01,,5,check limits and prox. Sw,190,30,1,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+B2.03.01,,6,check panel connection,220,30,1,13,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,
+B2.03.01,,7,"check, clean slip ring brushes",225,45,1,13,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,
+B2.03.01,,8,check flow meter,230,15,1,13,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,
+C12.1,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C12.1,,2,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C12.1,,3,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C12.1,,4,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C12.1,,5,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C12.1,,6,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C12.1,,7,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C12.1,,8,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C12.2,,10,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C12.2,,11,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C12.2,,12,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C12.2,,13,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C12.2,,14,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C12.2,,15,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C12.2,,16,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C12.2,,17,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C13,,18,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C13,,19,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C13,,20,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C13,,21,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C14.1,,1,clean & check brushes & commutator,100,60,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+C14.1,,2,clean motor filter,110,30,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+C14.1,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.1,,4,clean and check contactor,160,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.1,,5,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.1,,6,check panel air condition,150,15,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.1,,7,check safeties,170,30,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+C14.1,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C14.1,,9,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C14.1,,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.1,,11,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.1,,12,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.1,,13,check motor break,235,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.2,,1,clean & check brushes & commutator,100,60,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+C14.2,,2,clean motor filter,110,30,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+C14.2,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.2,,4,clean and check contactor,160,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.2,,5,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.2,,6,check panel air condition,150,15,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.2,,7,check safeties,170,30,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+C14.2,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C14.2,,9,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C14.2,,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.2,,11,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.2,,12,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.2,,13,check motor break,235,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C14.3,,1,clean & check brushes & commutator,100,60,1,2,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x
+C14.3,,2,clean motor filter,110,30,1,2,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x
+C14.3,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.3,,4,clean and check contactor,160,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.3,,5,clean the panel,140,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.3,,6,check panel air condition,150,15,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.3,,7,check safeties,170,30,1,2,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x
+C14.3,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C14.3,,9,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C14.3,,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.3,,11,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.3,,12,check panel connection,220,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.3,,13,check motor break,235,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.4,,1,clean & check brushes & commutator,100,60,1,2,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x
+C14.4,,2,clean motor filter,110,30,1,2,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x
+C14.4,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.4,,4,clean and check contactor,160,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.4,,5,clean the panel,140,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.4,,6,check panel air condition,150,15,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.4,,7,check safeties,170,30,1,2,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x
+C14.4,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C14.4,,9,check thermoregulation (M),195,45,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C14.4,,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.4,,11,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C14.4,,12,check panel connection,220,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C14.4,,13,check motor break,235,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C15.1,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,
+C15.1,,2,clean the panel,140,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C15.1,,3,check safeties,170,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C15.1,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C15.1,,5,check panel connection,220,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C15.1,,6,check motor break,235,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C15.2,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,
+C15.2,,2,clean the panel,140,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C15.2,,3,check safeties,170,30,1,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+C15.2,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C15.2,,5,check panel connection,220,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C15.2,,6,check motor break,235,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C15.3,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+C15.3,,2,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C15.3,,3,check safeties,170,30,1,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+C15.3,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C15.3,,5,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C15.3,,6,check motor break,235,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C15.4,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,
+C15.4,,2,clean the panel,140,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C15.4,,3,check safeties,170,30,1,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+C15.4,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C15.4,,5,check panel connection,220,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C15.4,,6,check motor break,235,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C16.1,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,
+C16.1,,2,clean the panel,140,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C16.1,,3,check safeties,170,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C16.1,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C16.1,,5,check panel connection,220,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C16.1,,6,check motor break,235,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C16.2,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,
+C16.2,,2,clean the panel,140,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C16.2,,3,check safeties,170,30,1,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+C16.2,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C16.2,,5,check panel connection,220,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C16.2,,6,check motor break,235,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C16.3,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+C16.3,,2,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C16.3,,3,check safeties,170,30,1,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+C16.3,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C16.3,,5,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C16.3,,6,check motor break,235,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C16.4,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,
+C16.4,,2,clean the panel,140,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C16.4,,3,check safeties,170,30,1,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+C16.4,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C16.4,,5,check panel connection,220,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C16.4,,6,check motor break,235,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C19.1,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,
+C19.1,,2,clean the panel,140,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C19.1,,3,check safeties,170,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.1,,4,check limits and prox. Sw (M),190,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C19.1,,5,check panel connection,220,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C19.1,,6,check motor break,235,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C19.2,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,
+C19.2,,2,clean the panel,140,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C19.2,,3,check safeties,170,30,1,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+C19.2,,4,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.2,,5,check panel connection,220,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C19.2,,6,check motor break,235,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C19.3,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+C19.3,,2,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C19.3,,3,check safeties,170,30,1,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+C19.3,,4,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.3,,5,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C19.3,,6,check motor break,235,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C19.4,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,
+C19.4,,2,clean the panel,140,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C19.4,,3,check safeties,170,30,1,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+C19.4,,4,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.4,,5,check panel connection,220,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C19.4,,6,check motor break,235,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C19.5,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,
+C19.5,,2,clean the panel,140,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C19.5,,3,check safeties,170,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.5,,4,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.5,,5,check panel connection,220,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C19.5,,6,check motor break,235,30,1,12,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,
+C19.6,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,
+C19.6,,2,clean the panel,140,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C19.6,,3,check safeties,170,30,1,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+C19.6,,4,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.6,,5,check panel connection,220,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C19.6,,6,check motor break,235,30,1,12,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,
+C19.7,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+C19.7,,2,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C19.7,,3,check safeties,170,30,1,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+C19.7,,4,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.7,,5,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C19.7,,6,check motor break,235,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+C19.8,,1,check motor connection,130,20,1,24,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,
+C19.8,,2,clean the panel,140,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C19.8,,3,check safeties,170,30,1,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+C19.8,,4,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C19.8,,5,check panel connection,220,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C19.8,,6,check motor break,235,30,1,12,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,
+C1,Triplex,1,clean & check brushes & commutator,100,60,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C1,Triplex,2,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C1,Triplex,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C1,Triplex,4,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C1,Triplex,5,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C1,Triplex,6,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C1,Triplex,7,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C1,Triplex,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C1,Triplex,9,check thermoregulation (M),195,120,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C1,Triplex,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C1,Triplex,11,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C1,Triplex,12,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C1,Triplex,13,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C1,Triplex,14,check converter fan,120,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C1,Triplex,15,check flow meter,230,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.01,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C2.01,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.01,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.01,,4,check safties and mill brake,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C2.01,,5,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C2.01,,6,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.01,,7,"check, clean slip ring brushes",225,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.01,,8,check flow meter,230,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.02,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C2.02,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.02,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.02,,4,check safties and mill brake,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C2.02,,5,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C2.02,,6,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.02,,7,"check, clean slip ring brushes",225,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.02,,8,check flow meter,230,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.03,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C2.03,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.03,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.03,,4,check safties and mill brake,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C2.03,,5,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C2.03,,6,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.03,,7,"check, clean slip ring brushes",225,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C2.03,,8,check flow meter,230,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C4,,1,clean & check brushes & commutator,100,60,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C4,,2,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C4,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C4,,4,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C4,,5,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C4,,6,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C4,,7,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C4,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C4,,9,check thermoregulation (M),195,90,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C4,,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C4,,11,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+C4,,12,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C4,,13,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C4,,14,check converter fan,120,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C4,,15,check flow meter,230,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C5,,1,clean & check brushes & commutator,100,60,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C5,,2,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C5,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C5,,4,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C5,,5,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C5,,6,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C5,,7,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+C5,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C5,,9,check thermoregulation (M),195,90,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C5,,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C5,,11,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+C5,,12,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C5,,13,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+C5,,14,check converter fan,120,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C5,,15,Clean and check brushes of clutch,240,90,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+C5,,16,clean & fix photocell,180,10,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+BELT COUPLING,,2,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,3,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,4,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,5,check safeties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+BELT COUPLING,,6,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+BELT COUPLING,,7,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+BELT COUPLING,,8,check coupling of encoders,215,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+BELT COUPLING,,9,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+BELT COUPLING,,10,clean & fix photocell,180,10,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+PANDENA.1,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+PANDENA.1,,2,clean and check contactor,160,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.1,,3,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.1,,4,check panel air condition,150,15,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.1,,5,check safeties,170,30,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+PANDENA.1,,6,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+PANDENA.1,,7,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.1,,8,clean & fix photocell,180,10,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,1,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+PANDENA.2,,2,clean and check contactor,160,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,3,clean the panel,140,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,4,check panel air condition,150,15,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,5,check safeties,170,30,1,2,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,,x,
+PANDENA.2,,6,check limits and prox. Sw,190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+PANDENA.2,,7,check panel connection,220,30,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+PANDENA.2,,8,clean & fix photocell,180,10,1,12,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,
+Mini ROLLER HEAD,,1,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Mini ROLLER HEAD,,2,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+Mini ROLLER HEAD,,3,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Mini ROLLER HEAD,,4,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Mini ROLLER HEAD,,5,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Mini ROLLER HEAD,,6,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Mini ROLLER HEAD,,7,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Mini ROLLER HEAD,,8,check thermoregulation (M),195,90,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Mini ROLLER HEAD,,9,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+Mini ROLLER HEAD,,10,check coupling of encoders,215,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+Mini ROLLER HEAD,,11,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Mini ROLLER HEAD,,12,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Mini ROLLER HEAD,,13,check converter fans,120,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Mini ROLLER HEAD,,14,clean & fix photocell,180,10,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+ROLLER HEAD,,1,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+ROLLER HEAD,,2,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+ROLLER HEAD,,3,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+ROLLER HEAD,,4,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+ROLLER HEAD,,5,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+ROLLER HEAD,,6,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+ROLLER HEAD,,7,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+ROLLER HEAD,,8,check thermoregulation (M),195,90,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+ROLLER HEAD,,9,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+ROLLER HEAD,,10,check coupling of encoders,215,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+ROLLER HEAD,,11,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+ROLLER HEAD,,12,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+ROLLER HEAD,,13,check Inverter fans,120,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+ROLLER HEAD,,14,clean & fix photocell,180,10,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+DUPLEX & SINGLE,,1,clean & check brushes & commutator,100,60,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+DUPLEX & SINGLE,,2,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+DUPLEX & SINGLE,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+DUPLEX & SINGLE,,4,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+DUPLEX & SINGLE,,5,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+DUPLEX & SINGLE,,6,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+DUPLEX & SINGLE,,7,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+DUPLEX & SINGLE,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+DUPLEX & SINGLE,,9,check thermoregulation (M),195,90,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+DUPLEX & SINGLE,,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+DUPLEX & SINGLE,,11,check coupling of tachometer and encoder,215,30,1,26,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,
+DUPLEX & SINGLE,,12,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+DUPLEX & SINGLE,,13,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+DUPLEX & SINGLE,,14,check Inverter fans,120,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+DUPLEX & SINGLE,,15,check flow meter,230,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Triplex,,1,clean & check brushes & commutator,100,60,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Triplex,,2,clean motor filter,110,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Triplex,,3,check motor connection,130,20,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+Triplex,,4,clean and check contactor,160,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Triplex,,5,clean the panel,140,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Triplex,,6,check panel air condition,150,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Triplex,,7,check safties,170,30,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Triplex,,8,check limits and prox. Sw (M),190,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Triplex,,9,check thermoregulation (M),195,120,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Triplex,,10,clean plc,210,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+Triplex,,11,check coupling of tachometer,215,30,1,26,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+Triplex,,12,check panel connection,220,30,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Triplex,,13,check dancer operation (M),200,30,1,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Triplex,,14,check converter fan,120,45,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Triplex,,15,Check tread width Camera,423,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Triplex,,16,Check DR Noll sensors,424,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x
+Triplex,,17,Check Profilometer sensors,425,15,1,13,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x

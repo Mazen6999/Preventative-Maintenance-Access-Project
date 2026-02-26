@@ -1,0 +1,290 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+Buffing Machine,Buffing Machine,1,check air setting (air regulators & filter),X1,60,1M,16,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x
+Buffing Machine,Buffing Machine,2,check and inspect air cylinders.,X9,60,1M,16,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x
+Buffing Machine,Buffing Machine,3,check tightness for bolts &coupling.,X10,30,1M,16,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x
+Buffing Machine,Buffing Machine,4,check pneuamtic system of the operation (solenoid valves).,X9,60,1M,16,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x
+Buffing Machine,Buffing Machine,5,Check gear boxes oil leakage,X5,20,1M,16,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x
+Buffing Machine,Buffing Machine,6,Change oil leakage,X5,10,1M,52,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Buffing Machine,Buffing Machine,7,Check greasing points,X5,40,1M,16,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x
+Conveyor System,,1,"clean,lubricateall sprocket&chain.",C1,180,1M,16,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,
+Conveyor System,,2,check the tension of all chain of turn tables.,C2,90,1M,16,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,
+Conveyor System,,3,check the tightness for mounting bolts.,C3,90,1M,8,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,
+Conveyor System,,4,check tension or all bolts.,C4,180,1M,16,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,
+Conveyor System,,5,inspect&clean for rollers and pulleys.,C5,240,1M,52,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Conveyor System,,6,check operation of air actuator.,C6,120,1M,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+Conveyor System,,7,"check,clean the tannel belt from dirty and dust",C7,180,1M,12,,,,,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x
+Conveyor System,,8,"check ,clean the belt before elevato from dirty",C8,180,1M,12,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,x,
+Conveyor System,,9,check the chain tension of elevator.,C9,120,1M,26,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
+Conveyor System,,10,check the condition of gate of unloading conveor.,C10,300,1M,8,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,
+Conveyor System,,11,"inspect,cleanfor air &pneumatic system.",C11,90,1M,16,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,
+Conveyor System,,12,inspect&clean for all gearboxes.,C12,90,1M,26,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
+Conveyor System,,13,insppect&clean for all rollers brakes.,C13,240,1M,16,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,
+Mould Clean Machine,,1,"check, clean&inspect racks and gear box",M1,120,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,2,check tightness of all chains,M2,90,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,3,check and inspect steam lines and mechaical connections.,M3,180,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,4,check oil for gear box and air lubractor,M4,60,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,5,check and inspect liquid nozzles,M5,150,1M,26,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
+Mould Clean Machine,,6,check wear for moving parts.,M6,180,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,7,check and inspect main pump.,M7,210,1M,26,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
+Mould Clean Machine,,8,check and inspect Dosing chemical pump.,M8,120,1M,26,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
+Mould Clean Machine,,9,check and inspect operation of machinedoor.,M10,150,1M,8,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x
+Mould Clean Machine,,10,check operation of steam safety valve.,M11,120,1M,8,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x
+Mould Clean Machine,,11,check operation of water tank wih level control(float),M12,120,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,12,check all pneumatic control,M13,150,1M,26,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,
+Repair Machines,,1,clean and lubrcate all moving parts.,R1,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,2,check and grease all nipples,R2,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,3,check oil level for air lubrcator.,R3,90,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,4,check for any leakage for air,R4,240,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Repair Machines,,5,check for any leakage for oil,R5,120,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Repair Machines,,6,check tightness for all bolts and moving parts.,R6,300,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,7,check the operation of all pneumatic motions (speed),R7,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,8,check the condition of operation for air cylinders,R7,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,9,check the operation of all air Solenoid valves,R7,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Test tire M/C 3,,1,Check AC motor running status,3.1,60,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,2,Check wear condition and tautness of V-belts,3.2,60,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,3,Check the firmness of small belt pulley,4.1,30,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,4,Check the firmness of large belt pulley,4.2,60,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,5,Check oil cylinder,4.3,20,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,6,Check drum shaft bearing,4.4,10,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,7,Check spindle back bearing,5.1,10,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,8,Check spindle front bearing,5.2,10,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,9,Check pneumatic disc brake,6.1,10,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+Test tire M/C 3,,10,Check limit switch of anti-blowout system,12.1,10,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,11,Check connecting rod of anti-blowout system,12.3,20,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Test tire M/C 3,,12,Check safety pin of anti-blowout system,16.0,60,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Test tire M/C 3,,13,Check deflation and retraction limit switches,17.0,60,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,14,Check linear guide,11.1,60,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 3,,15,Check air supply treatment device,11.2,30,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+Test tire M/C 4,,1,Check AC motor running status,3.1,60,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,2,Check wear condition and tautness of V-belts,3.2,60,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,3,Check the firmness of small belt pulley,4.1,30,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,4,Check the firmness of large belt pulley,4.2,60,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,5,Check oil cylinder,4.3,20,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,6,Check drum shaft bearing,4.4,10,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,7,Check spindle back bearing,5.1,10,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,8,Check spindle front bearing,5.2,10,1E,26,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,9,Check pneumatic disc brake,6.1,10,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+Test tire M/C 4,,10,Check limit switch of anti-blowout system,12.1,10,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,11,Check connecting rod of anti-blowout system,12.3,20,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Test tire M/C 4,,12,Check safety pin of anti-blowout system,16.0,60,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+Test tire M/C 4,,13,Check deflation and retraction limit switches,17.0,60,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,14,Check linear guide,11.1,60,1E,52,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test tire M/C 4,,15,Check air supply treatment device,11.2,30,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+Test Wheel 1,,1,"check tracking ,tension and wear for drive belt.",T1,90,1M,13,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,
+Test Wheel 1,,2,clean side ways fo carriage.,T2,120,1M,13,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,
+Test Wheel 1,,3,grease bearing for DC and pump motor.,T3,90,1M,26,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 1,,4,gearse bearing for load wheel and spindle.,T4,150,1M,26,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 1,,5,make tension test for drive belt.,T5,180,1M,26,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 1,,6,check wear for carriage slide ways.,T6,180,1M,26,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 1,,7,remove load wheel for cleaning and errrcting a,T7,2160,1M,52,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 1,,8,remove spindle for cleaning and errecting gain.,T8,1920,1M,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,
+Test Wheel 2,,1,"check tracking ,tension and wear for drive belt.",T1,90,1M,13,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,
+Test Wheel 2,,2,clean side ways fo carriage.,T2,120,1M,13,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,
+Test Wheel 2,,3,grease bearing for DC and pump motor.,T3,90,1M,26,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 2,,4,gearse bearing for load wheel and spindle.,T4,150,1M,26,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 2,,5,make tension test for drive belt.,T5,180,1M,26,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 2,,6,check wear for carriage slide ways.,T6,180,1M,26,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 2,,7,remove load wheel for cleaning and errrcting a,T7,2160,1M,52,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test Wheel 2,,8,remove spindle for cleaning and errecting gain.,T8,1920,1M,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,
+UNIFORMITY,,1,clean and lubricte for asam unit parts.,U1,90,1M,8,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,
+UNIFORMITY,,2,check oil level for air lubrcation.,U2,30,1M,8,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,
+UNIFORMITY,,3,check wear and grease for slide ways.,U3,60,1M,8,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,
+UNIFORMITY,,4,clean the load wheel.,U4,90,1M,8,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,
+UNIFORMITY,,5,check the setting for air and oil regulators.,U5,60,1M,13,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,
+UNIFORMITY,,6,check leaks for air and oil system.,U6,60,1M,13,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,
+UNIFORMITY,,7,"check, clean and drin for air filters.",U7,45,1M,13,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,
+UNIFORMITY,,8,check pop up filter (hydraulic unit),U8,45,1M,13,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,
+UNIFORMITY,,9,check oil level for gearbox.,U9,30,1M,13,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,
+UNIFORMITY,,10,check tightness for all chains.,U10,90,1M,26,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
+UNIFORMITY,,11,check tightness for all bolts and couplings.,U11,180,1M,26,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,
+UNIFORMITY,,12,check and inspect for all timing belt.,U12,90,1M,26,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,
+UNIFORMITY,,13,"check wear for guides ,screwa and gears.",U13,180,1M,26,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
+UNIFORMITY,,14,check oil and clean the filter of hydraulic unit.,U14,60,1M,26,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,
+UNIFORMITY,,15,inspect and clean all conveyors.,U15,180,1M,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UNIFORMITY,,16,inspect and check for pneumatic system.,U16,90,1M,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UNIFORMITY,,17,inspect and check for hydraulic system,U17,90,1M,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UNIFORMITY,,18,inspect and check for all valves,U18,90,1M,52,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visual Machine V1,,1,inspect and check tension for chain.,I1,120,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,2,inspectand check gear box.,I2,360,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,3,clean and lubracte raches and guides.,I3,240,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,4,check oil level for air lubrcator and gearbox.,I4,60,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,5,checkthe condition of opeation for air cylinders.,I5,300,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,6,check tightness for all bolts and moving parts.,I6,240,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,7,check wear for all all pins an copper bushings.,I7,180,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,8,check and inspect for brakes&drive motor belt.,I8,120,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,9,check the operation of all air solenoide valves.,I9,180,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,10,check the operation of all pnumatic motions(speed).,I10,180,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,11,check for any leakage for air.,I11,240,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,12,check for any leakage for oil.,I12,240,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V1,,13,check for any leakage for greasing.,I13,240,1M,10,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,
+Visual Machine V2,,1,inspect and check tension for chain.,I1,120,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,2,inspectand check gear box.,I2,360,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,3,clean and lubracte raches and guides.,I3,240,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,4,check oil level for air lubrcator and gearbox.,I4,60,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,5,checkthe condition of opeation for air cylinders.,I5,300,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,6,check tightness for all bolts and moving parts.,I6,240,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,7,check wear for all all pins an copper bushings.,I7,180,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,8,check and inspect for brakes&drive motor belt.,I8,120,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,9,check the operation of all air solenoide valves.,I9,180,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,10,check the operation of all pnumatic motions(speed).,I10,180,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,11,check for any leakage for air.,I11,240,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,12,check for any leakage for oil.,I12,240,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V2,,13,check for any leakage for greasing.,I13,240,1M,10,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,
+Visual Machine V3,,1,inspect and check tension for chain.,I1,120,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,2,inspectand check gear box.,I2,360,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,3,clean and lubracte raches and guides.,I3,240,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,4,check oil level for air lubrcator and gearbox.,I4,60,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,5,checkthe condition of opeation for air cylinders.,I5,300,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,6,check tightness for all bolts and moving parts.,I6,240,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,7,check wear for all all pins an copper bushings.,I7,180,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,8,check and inspect for brakes&drive motor belt.,I8,120,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,9,check the operation of all air solenoide valves.,I9,180,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,10,check the operation of all pnumatic motions(speed).,I10,180,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,11,check for any leakage for air.,I11,240,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,12,check for any leakage for oil.,I12,240,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V3,,13,check for any leakage for greasing.,I13,240,1M,10,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,
+Visual Machine V4,,1,inspect and check tension for chain.,I1,120,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,2,inspectand check gear box.,I2,360,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,3,clean and lubracte raches and guides.,I3,240,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,4,check oil level for air lubrcator and gearbox.,I4,60,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,5,checkthe condition of opeation for air cylinders.,I5,300,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,6,check tightness for all bolts and moving parts.,I6,240,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,7,check wear for all all pins an copper bushings.,I7,180,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,8,check and inspect for brakes&drive motor belt.,I8,120,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,9,check the operation of all air solenoide valves.,I9,180,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,10,check the operation of all pnumatic motions(speed).,I10,180,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,11,check for any leakage for air.,I11,240,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,12,check for any leakage for oil.,I12,240,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V4,,13,check for any leakage for greasing.,I13,240,1M,10,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,
+Visual Machine V5,,1,inspect and check tension for chain.,I1,120,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,2,inspectand check gear box.,I2,360,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,3,clean and lubracte raches and guides.,I3,240,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,4,check oil level for air lubrcator and gearbox.,I4,60,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,5,checkthe condition of opeation for air cylinders.,I5,300,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,6,check tightness for all bolts and moving parts.,I6,240,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,7,check wear for all all pins an copper bushings.,I7,180,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,8,check and inspect for brakes&drive motor belt.,I8,120,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,9,check the operation of all air solenoide valves.,I9,180,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,10,check the operation of all pnumatic motions(speed).,I10,180,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,11,check for any leakage for air.,I11,240,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,12,check for any leakage for oil.,I12,240,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V5,,13,check for any leakage for greasing.,I13,240,1M,10,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,
+Visual Machine V6,,1,inspect and check tension for chain.,I1,120,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,2,inspectand check gear box.,I2,360,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,3,clean and lubracte raches and guides.,I3,240,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,4,check oil level for air lubrcator and gearbox.,I4,60,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,5,checkthe condition of opeation for air cylinders.,I5,300,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,6,check tightness for all bolts and moving parts.,I6,240,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,7,check wear for all all pins an copper bushings.,I7,180,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,8,check and inspect for brakes&drive motor belt.,I8,120,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,9,check the operation of all air solenoide valves.,I9,180,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,10,check the operation of all pnumatic motions(speed).,I10,180,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,11,check for any leakage for air.,I11,240,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,12,check for any leakage for oil.,I12,240,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V6,,13,check for any leakage for greasing.,I13,240,1M,10,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,
+Visual Machine V7,,1,inspect and check tension for chain.,I1,120,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,2,inspectand check gear box.,I2,360,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,3,clean and lubracte raches and guides.,I3,240,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,4,check oil level for air lubrcator and gearbox.,I4,60,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,5,checkthe condition of opeation for air cylinders.,I5,300,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,6,check tightness for all bolts and moving parts.,I6,240,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,7,check wear for all all pins an copper bushings.,I7,180,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,8,check and inspect for brakes&drive motor belt.,I8,120,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,9,check the operation of all air solenoide valves.,I9,180,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,10,check the operation of all pnumatic motions(speed).,I10,180,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,11,check for any leakage for air.,I11,240,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,12,check for any leakage for oil.,I12,240,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+Visual Machine V7,,13,check for any leakage for greasing.,I13,240,1M,10,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,,,,,,,,,x,,
+X-Ray Collman,,1,check air setting (air regulators & filter),X1,60,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+X-Ray Collman,,2,check water cooling unit (water pump and level),X2,60,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+X-Ray Collman,,3,"check spreading device ( grease ball ,screw)",X3,30,2M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+X-Ray Collman,,4,"clean , grease, lub. Diode carriages.",X4,60,1M,24,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,
+X-Ray Collman,,5,"clean & lub. Holder (tyre holder, R & L )",X5,20,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+X-Ray Collman,,6,"check , clean ,grease all gears,chains",X6,10,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+X-Ray Collman,,7,"check ,clean all roller conveyors.",X7,10,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+X-Ray Collman,,8,check and inspect air cylinders.,X9,10,2M,32,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,
+X-Ray Collman,,9,check tightness for bolts &coupling.,X10,10,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+X-Ray Collman,,10,check pneuamtic system of the operation (solenoid valves).,X9,10,1M,32,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,
+X-Ray Collman,,11,check the operation of machine Doors,X11,20,2M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+X-Ray Collman,,12,check the operation for the mechanism of x-ray tube.,X12,60,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+X-Ray Collman,,13,check the operation for the mechanism of diode,X13,30,2M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+X-Ray Collman,,14,check all the sporket gear for wear and its conditions,X14,60,2M,16,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,
+X-Ray ALFA,,1,check air setting (air regulators & filter),X1,60,1M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+X-Ray ALFA,,2,check water cooling unit (water pump and level),X2,60,1M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+X-Ray ALFA,,3,"check spreading device ( grease ball ,screw)",X3,30,2M,8,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,
+X-Ray ALFA,,4,"clean , grease, lub. Diode carriages.",X4,60,1M,24,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,
+X-Ray ALFA,,5,"clean & lub. Holder (tyre holder, R & L )",X5,20,1M,8,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,
+X-Ray ALFA,,6,"check , clean ,grease all gears,chains",X6,10,1M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+X-Ray ALFA,,7,"check ,clean all roller conveyors.",X7,10,1M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+X-Ray ALFA,,8,check and inspect air cylinders.,X9,10,2M,32,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+X-Ray ALFA,,9,check tightness for bolts &coupling.,X10,10,1M,8,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,
+X-Ray ALFA,,10,check pneuamtic system of the operation (solenoid valves).,X9,10,1M,32,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+X-Ray ALFA,,11,check the operation of machine Doors,X11,20,2M,8,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,
+X-Ray ALFA,,12,check the operation for the mechanism of x-ray tube.,X12,60,1M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+X-Ray ALFA,,13,check the operation for the mechanism of diode,X13,30,2M,4,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,
+X-Ray ALFA,,14,check all the sporket gear for wear and its conditions,X14,60,2M,16,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,
+X-Ray MONSANTO,,1,check air setting (air regulators & filter),X1,60,1M,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+X-Ray MONSANTO,,2,check water cooling unit (water pump and level),X2,60,1M,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+X-Ray MONSANTO,,3,"check spreading device ( grease ball ,screw)",X3,30,2M,8,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,
+X-Ray MONSANTO,,4,"clean , grease, lub. Diode carriages.",X4,60,1M,24,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,
+X-Ray MONSANTO,,5,"clean & lub. Holder (tyre holder, R & L )",X5,20,1M,8,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,
+X-Ray MONSANTO,,6,"check , clean ,grease all gears,chains",X6,10,1M,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+X-Ray MONSANTO,,7,"check ,clean all roller conveyors.",X7,10,1M,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+X-Ray MONSANTO,,8,check and inspect air cylinders.,X9,10,2M,32,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,
+X-Ray MONSANTO,,9,check tightness for bolts &coupling.,X10,10,1M,8,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,
+X-Ray MONSANTO,,10,check pneuamtic system of the operation (solenoid valves).,X9,10,1M,32,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,
+X-Ray MONSANTO,,11,check the operation of machine Doors,X11,20,2M,8,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,
+X-Ray MONSANTO,,12,check the operation for the mechanism of x-ray tube.,X12,60,1M,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+X-Ray MONSANTO,,13,check the operation for the mechanism of diode,X13,30,2M,4,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,
+X-Ray MONSANTO,,14,check all the sporket gear for wear and its conditions,X14,60,2M,16,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,
+ZF Machine,CENTRAL LUBRICATION,3,Fluid grease unit : Refill with Shell Gadus S4 V45AC (Alternative: Shell Alvania 1029),ZF,30,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,CENTRAL LUBRICATION,6,Hose lines and connections: Check leak tightness of connections;Check hoses for damage and wear (cracks),ZF,30,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,LUBRICATION HYDRAULICS,7,Pressure settings: Check settings acc. to hydraulic plan,ZF,90,1M,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,LUBRICATION HYDRAULICS,8,Filterelement : Check and replace if necessary,ZF,20,1M,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,LUBRICATION HYDRAULICS,9,Hose line and connectings: Check leak tightness of connections;Check hoses for damage and wear (cracks),ZF,10,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,LUBRICATION HYDRAULICS,10,Oil Level: Check oil level and quality of oil;Fill with Shell Tellus S2 MX 22 (Alternative: Mobil Velocite No. 10 ISO VG 22),ZF,20,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,ELECTRIC COMPONENTS,12,Uninterruptible power supply UPS: Check the power supply of the battery acc. to manufacturer specifications,ZF,30,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,ELECTRIC COMPONENTS,14,Wiring: Visual inspection of the wiring especially in energy chains and drive connections,ZF,60,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,ELECTRIC COMPONENTS,15,Every Emergency stop buttons: Checkfor damage and function,ZF,60,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,In-conveyor roboter-marking unit,3,Toothed belt: Clean and replace if necessary,ZF,30,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,COUNTERHOLD,6,"toothed bar drive: Clean, check for damage and replace if necessary toothed bar, toothed wheel, lubrication wheel",ZF,30,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,CHANGE ROTATION UNIT,7,:Check all units for damage / exceeding wear and loose / missing parts,ZF,90,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,MANUAL RIM CHANGE MRC,8,crane: Check all units for damage / exceeding wear and loose / missing parts,ZF,20,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,RIM CHANGING TOOL,9,tool upper rim: Check all units for damage / exceeding wear and loose / missing parts,ZF,10,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,RIM CHANGING TOOL,10,rim lower rim: Check all units for damage/ exceeding wear and loose/ missing parts,ZF,20,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,Horizontal carriage Geometry measuring unit,3,"Ball screw: Clean, check for damage and replace if necessary",ZF,30,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,Vertical carriage Geometry measuring unit,6,"Guide carriages and rails: Clean, check for damage and replace if necessary",ZF,30,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,GEOMETRY MEASURING DEVICE,7,"Camera unit (Pos. 10): Clean sensor window with glass cleaner or similar; Check sensor, cable connections, and sensor coverage for damage",ZF,90,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,Carriage drum unit,8,"Ball screw: Clean, check for damage and replace if necessary",ZF,20,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,Carriage drum unit,9,"Guide carriages and rails: Clean, check for damage and replace if necessary",ZF,10,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,DRUM COMPL.,10,Load wheel surface (Pos. 200): Clean coated surfaces with dry ice and a brass wire brush or a hard bristle brush to remove rubber residues,ZF,20,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,DRUM COMPL.,12,Grease nipple: Grease with Isoflex NBU 15,ZF,30,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,TROMMELANTRIEB,14,"Guide carriages and rails: Clean, check for damage and replace if necessary",ZF,60,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,TROMMELANTRIEB,15,friction lining: check for wear and replace if necessary,ZF,60,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,PUSHER,16,:Check all units for damage / exceeding wear and loose / missing parts,ZF,60,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,PUSHER,17,"Guide carriages and rails: Clean, check for damage and replace if necessary",ZF,30,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,INTEGR. MEASURE DEV.,18,Function: Clean the lens,ZF,60,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,IN-CONVEYOR,3,toothed belt: Clean and replace if necessary,ZF,30,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,LIFTING DEVICE,6,: Check for damage and leakage and replace if necessary,ZF,30,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,LIFTING DEVICE,7,"Guide carriages and rails: Clean,check for damage and replace if necessary",ZF,90,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,LIFTING DEVICE,8,"Toothed bar drive: Clean,check for damage and replace if necessary toothed bar,toothed wheel,lubrication wheel",ZF,20,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,LIFTING UNIT,9,": Clean,check for damage and replace if necessary",ZF,10,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,LIFTING UNIT,10,"Guide carriages and rails: Clean,check for damage and replace if necessary",ZF,20,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,INTERLOCKING,12,"function: Check radial & axial run-out relating to spindle,contact surfaces to rim & spindle, check damper",ZF,30,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,BEARING,14,"Airr outlet of spindle: clean air outlets, replace filter pads",ZF,60,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,BEARING,15,Locking head (Pos.980)and ring (Pos.815): check radial and lateral runout of locking head and ring,ZF,60,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,BEARING,16,Position of pin in ring (Pos. 925): check fixing of pin,ZF,60,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,BEARING,17,Grease nipple (Pos.530)in lower rim fixture (Pos.825): Grease with Shell Gadus,ZF,30,1M,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+ZF Machine,BEARING,18,Rim and interlocking system: check snap-in finction,ZF,60,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,SOAP STATION,3,damper:Clean and replace if necessary,ZF,30,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,SOAP STATION,6,transmission chains:Clean and replace if necessary,ZF,30,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,SCANNING DEVICE,7,Mirror: clean the mirror,ZF,90,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,SCANNING DEVICE,8,Function: Clean the lens,ZF,20,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,IN-CONVEYOR,9,Toothed belt : Clean and replace if necessary,ZF,10,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,IN-CONVEYOR,10,Toothed belt disc :Clean and replace if necessary,ZF,20,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,LIFTING UNIT,12,"Rollers: Clean, check for damage and replace if necessary",ZF,30,1M,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,CENTERING DEVICE,14,"Guide carriages and rails: Clean, check for damage and replace if necessary",ZF,60,1M,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,CENTERING DEVICE,15,"Hoses & cables in power track : Clean, check for damage and replace if necessary",ZF,60,1M,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,CENTERING DEVICE,16,"Roller: Clean, check for damage and replace if necessary",ZF,60,1M,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,SOAPING DEVICE,17,"Soap coverd surfaces: Remove soap residue,clean components & function check",ZF,30,1M,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+ZF Machine,SOAPING DEVICE,18,Brushes: Check condition of bristles and replace brush if necessary,ZF,60,1M,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x

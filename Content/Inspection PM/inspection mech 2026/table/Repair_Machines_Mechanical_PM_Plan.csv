@@ -1,0 +1,10 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+Repair Machines,,1,clean and lubrcate all moving parts.,R1,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,2,check and grease all nipples,R2,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,3,check oil level for air lubrcator.,R3,90,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,4,check for any leakage for air,R4,240,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Repair Machines,,5,check for any leakage for oil,R5,120,1M,4,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,
+Repair Machines,,6,check tightness for all bolts and moving parts.,R6,300,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,7,check the operation of all pneumatic motions (speed),R7,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,8,check the condition of operation for air cylinders,R7,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,
+Repair Machines,,9,check the operation of all air Solenoid valves,R7,180,1M,8,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,

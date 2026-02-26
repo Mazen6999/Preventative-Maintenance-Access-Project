@@ -1,0 +1,13 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+Mould Clean Machine,,1,"check, clean&inspect racks and gear box",M1,120,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,2,check tightness of all chains,M2,90,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,3,check and inspect steam lines and mechaical connections.,M3,180,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,4,check oil for gear box and air lubractor,M4,60,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,5,check and inspect liquid nozzles,M5,150,1M,26,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
+Mould Clean Machine,,6,check wear for moving parts.,M6,180,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,7,check and inspect main pump.,M7,210,1M,26,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
+Mould Clean Machine,,8,check and inspect Dosing chemical pump.,M8,120,1M,26,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
+Mould Clean Machine,,9,check and inspect operation of machinedoor.,M10,150,1M,8,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x
+Mould Clean Machine,,10,check operation of steam safety valve.,M11,120,1M,8,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x,,,,,,,,x
+Mould Clean Machine,,11,check operation of water tank wih level control(float),M12,120,1M,13,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,
+Mould Clean Machine,,12,check all pneumatic control,M13,150,1M,26,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,

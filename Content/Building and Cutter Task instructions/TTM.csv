@@ -1,0 +1,90 @@
+﻿Header,Task_Code,Task_Title,Crafts,Frequency,Time,Section,Discipline,Warning_Text,Steps_Text,issue,Issue_No,Issue_Date,Reviewed_By,Approved_By
+Fo-I/E-24   Issue(1)   Rev(0),900,Check the bobbin centering oil level,1 Mechanic,12 Week,20 min,P. Maintenance of  TTM,Mechanical,,Check the oil level in centering device and refill if required,Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),901,Check festoon lateral level,1 Mechanic,4 Week,20 MIN,P. Maintenance of  TTM,Mechanical,,Check the lateral level using the sprat level and adjust  if required,Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),902,Check festoon shock absorber,1 Mechanic,4 Week,25 MIN,P. Maintenance of  TTM,Mechanical,,"1- Manually check the operation of the shock absorber.
+2- if its too smooth replace the oil and if its too hard check the spring and rod
+alignment",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),903,Lubricate the metal chain for festoon motor,1 Mechanic,26 Week,15 min,P. Maintenance of  TTM,Mechanical,Change the machine into manual mode,"1- Remove the chain cover
+2- Put enough amount of grease on the chain Mobil B2
+3- Put the cover back",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),904,Change festoon gearbox oil,1 Mechanic,52 Week,30 min,P. Maintenance of  TTM,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),905,Lubricate the metal chain for trimming motor,1 Mechanic,26 Week,15 min,P. Maintenance of  TTM,Mechanical,Change the machine into manual mode,"1- Remove the chain cover
+2- Put enough amount of grease on the chain
+3- Put the cover back",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),906,Check the trimming device,1 Mechanic,12 Week,20 Min,P. Maintenance of  TTM,Mechanical,,"1- Check the fixation of trimming blades
+2- Change bearing or blades if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),907,Check the let off tray roller,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),908,Lubricate the benser gear,1 Mechanic,26 Week,20 min,P. Maintenance of  TTM,Mechanical,,"1- Remove old grease
+2- Put enough amount of grease on the gear Mobil B2",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),909,Lubricate the feeding rack,1 Mechanic,12 Week,15 min,P. Maintenance of  TTM,Mechanical,,"1- Remove old grease
+2- Put enough amount of grease on the rack using Mobil B2",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),910,Check feeding shock absorber,1 Mechanic,4 Week,20 min,P. Maintenance of  TTM,Mechanical,,"1- Manually check the operation of the shock absorber.
+2- if its too smooth replace the oil and if its too hard check the spring and rod
+alignment",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),915,Check the cutting quality,1 Mechanic,4 Week,20 min,P. Maintenance of  TTM,Mechanical,,"Test the knife and replace or adjust its clearance using filler if
+required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),916,Change the knife gearbox oil,1 Mechanic,52 Week,30 min,P. Maintenance of  TTM,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),917,Check knife motor timing belt,1 Mechanic,12 Week,10 min,P. Maintenance of  TTM,Mechanical,,"1- Remove cover and check the belt for wear or scratches
+2- Change with the same one if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),918,Lubricate knife chain and rack,1 Mechanic,12 Week,15 min,P. Maintenance of  TTM,Mechanical,,"1- Remove old grease
+2- Put enough amount of grease on the rack using Omega 77",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),919,Lubricate knife grease nipples,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,Use hand grease gun and lubricate the nipple using Omega 77,Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),920,Lubricate knife head,1 Mechanic,12 Week,15 min,P. Maintenance of  TTM,Mechanical,,Use hand grease gun and lubricate the nipple using Omega 77,Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),921,Lubricate the metal chain for knife roller motor,1 Mechanic,52 Week,25 min,P. Maintenance of  TTM,Mechanical,Change the machine into manual mode,"1- Remove the chain cover
+2- Put enough amount of grease on the chain Mobil B2
+3- Put the cover back",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),922,Change festoon gearbox oil,1 Mechanic,52 Week,45 min,P. Maintenance of  TTM,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),925,Check the magnet feeding rollers,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),926,Check magnet cylinder,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"Check the free movement and speed of magnet cylinder up and
+down and forward and backward and adjust using the flow regulator
+if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),927,Check festoon shock absorber,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"1- Manually check the operation of the shock absorber.
+2- if its too smooth replace the oil and if its too hard check the spring and rod
+alignment",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),928,Check magnet table lateral level,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"Check the lateral level using the sprat level and adjust by
+adjusting screws if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),929,Lubricate the magnet carriage,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"1- Check the condition of the old grease
+2- Replace it if required using Omega 77",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),935,Check the splicer tray roller,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),936,Change splicer roller gearbox oil,1 Mechanic,52 Week,45 min,P. Maintenance of  TTM,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),937,Check the stoppage splicer roller lateral level,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"Check the lateral level using the sprat level and adjust by
+adjusting screws if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),938,Check the conditions of the splicing unit,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"1- Check the condition of the splicing gears and replace if required
+2- Check the clearance of splicing gears and adjust if required
+3- Check splice guide cylinder efficiency and replace if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),939,Lubricate the splicer guide screw shaft,1 Mechanic,52 Week,15 min,P. Maintenance of  TTM,Mechanical,,Put enough amount of light oil on the screw,Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),940,Lubricate the metal chain for splicer roller motor,1 Mechanic,52 Week,15 min,P. Maintenance of  TTM,Mechanical,Change the machine into manual mode,"1- Remove the chain cover
+2- Put enough amount of grease on the chain Mobil B2
+3- Put the cover back",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),941,Check splicer screw motor timing belt,1 Mechanic,12 Week,15 min,P. Maintenance of  TTM,Mechanical,,"1- Remove cover and check the belt for wear or scratches
+2- Change with the same one if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),945,Lubricate the table guide screw shaft,1 Mechanic,52 Week,15 min,P. Maintenance of  TTM,Mechanical,,Put enough amount of grease Mobil B2 on the screw,Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),946,Change strip motor gearbox oil,1 Mechanic,52 Week,30 min,P. Maintenance of  TTM,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),947,Check table motor timing belt,1 Mechanic,12 Week,15 min,P. Maintenance of  TTM,Mechanical,,"1- Remove cover and check the belt for wear or scratches
+2- Change with the same one if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),948,Clean table brushes,1 Mechanic,52 Week,15 min,P. Maintenance of  TTM,Mechanical,,"1- Take the brushes out
+2- clean with solvent , dry it then put it back",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),955,Check the myler carriage movement speed,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"Move the carriage in and out and adjust if required using the flow
+regulator located on the cylinder both ends",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),956,Lubricate the myler carriage centering guide,1 Mechanic,52 Week,10 min,P. Maintenance of  TTM,Mechanical,,"1- Remove all dirt
+2- Put enough amount of light grease on centering guide",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),957,Change bobbin motor gearbox oil,1 Mechanic,52 Week,30 min,P. Maintenance of  TTM,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),958,Lubricate the metal chain for bobbin motor,1 Mechanic,52 Week,15 min,P. Maintenance of  TTM,Mechanical,Change the machine into manual mode,"1- Remove the chain cover
+2- Put enough amount of grease on the chain Mobil B2
+3- Put the cover back",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),959,Check the wind up tray roller,1 Mechanic,4 Week,15 min,P. Maintenance of  TTM,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),965,General machine cleaning with air,1 Mechanic,4 Week,60 min,P. Maintenance of  TTM,Mechanical,,"1- Clean beneath the splicer and knife tray
+2- Clean beneath the feeding bobbin
+3- Clean the strip area",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),966,Lubricate all machine bearing housing,1 Mechanic,26 Week,30 min,P. Maintenance of  TTM,Mechanical,,"Use the hand grease gun to lubricate the bearing housing till the
+new grease appears around the bearing",Ahmed Mosaad,1,31-Dec-25,Ahmed Metwally,Tareq Moustafa

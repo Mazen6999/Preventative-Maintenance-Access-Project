@@ -1,0 +1,32 @@
+﻿Header,Task_Code,Task_Title,Crafts,Frequency,Time,Section,Discipline,Warning_Text,Steps_Text,issue,Issue_No,Issue_Date,Reviewed_By,Approved_By
+Fo-I/E-24   Issue(1)   Rev(0),600,Change strip gearbox oil,1 Mechanic,52 Week,60 min,P. Maintenance of Mood,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),601,Change windup gearbox oil,1 Mechanic,52 WEEKS,45 MIN,P. Maintenance of Mood,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),602,Change magnet gearbox oil,1 Mechanic,52 WEEKS,30 MIN,P. Maintenance of Mood,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),603,Check the windup tray roller,1 Mechanic,4 WEEKS,20 min,P. Maintenance of Mood,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),607,Check belt conditions,1 Mechanic,4 Weeks,20 min,P. Maintenance of Mood,Mechanical,,Check belts for wear and replace if required,Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),500,Check wind up area,1 Mechanic,4 WEEKS,30 min,P. Maintenance of Fisher,Mechanical,,"1- check the fixation of bobbin lock cylinder
+2- check the poly ethylene rollers",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),501,Change let off gearbox oil,1 Mechanic,52 WEEKS,30 Min,P. Maintenance of Fisher,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),502,Lubricate knife grease nipples,1 Mechanic,4 WEEKS,30 min,P. Maintenance of Fisher,Mechanical,,Use hand grease gun and lubricate the nipple using Omega 77,Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),503,Change knife gearbox oil,1 Mechanic,52 WEEKS,30 min,P. Maintenance of Fisher,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),504,Change table gearbox oil,1 Mechanic,52 WEEKS,30 min,P. Maintenance of Fisher,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),505,Check the windup tray roller,1 Mechanic,4 WEEKS,20 min,P. Maintenance of Fisher,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),506,Lubricate feeding magnet rack,1 Mechanic,26 WEEKS,30 min,P. Maintenance of Fisher,Mechanical,,"1- Remove old grease
+2- Put enough amount of grease Mobil B2",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),510,Check belt conditions,1 Mechanic,4 WEEKS,20 min,P. Maintenance of Fisher,Mechanical,,Check belts for wear and replace if required,Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),604,Lubricate all machine bearing housing,1 Mechanic,26 WEEKS,30 min,P. Maintenance of Mood,Mechanical,,"Use the hand grease gun to lubricate the bearing housing till the
+new grease appears around the bearing",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),507,Lubricate all machine bearing housing,1 Mechanic,26 WEEKS,30 min,P. Maintenance of Fisher,Mechanical,,"Use the hand grease gun to lubricate the bearing housing till the
+new grease appears around the bearing",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),606,General air leakage check,1 Mechanic,4 WEEKS,30 min,P. Maintenance of Mood,Mechanical,,"1- Check the supply air hoses for leakage
+2- Check the oil level in the air lubricator",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),509,General air leakage check,1 Mechanic,4 WEEKS,30 min,P. Maintenance of Fisher,Mechanical,,"1- Check the supply air hoses for leakage
+2- Check the oil level in the air lubricator",Ahmed Mosaad,1,09-12-23,Ahmed Metwally,Tareq Moustafa

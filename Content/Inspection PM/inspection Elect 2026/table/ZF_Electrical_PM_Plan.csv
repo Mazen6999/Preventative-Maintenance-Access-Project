@@ -1,0 +1,33 @@
+﻿Machine,Sub_Machine,.,Task_Description,Task_Code,Estimated_mins,Crew,Period_freq,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24,W25,W26,W27,W28,W29,W30,W31,W32,W33,W34,W35,W36,W37,W38,W39,W40,W41,W42,W43,W44,W45,W46,W47,W48,W49,W50,W51,W52
+ZF Machine,PNEUMATICS,1,"Maintenance device, filter and pressure accumulator: Clean filter, replace if necessary",ZF,60,1E,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,PNEUMATICS,2,Hose lines and airconnections: Check leak tightness of connections;Check hoses for damage and wear (cracks),ZF,60,1E,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,CENTRAL LUBRICATION,4,Pressure switch: Check function with PLC-ServiceMode,ZF,60,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+ZF Machine,CENTRAL LUBRICATION,5,Function check: Check lubrication function withPLC-ServiceMode.,ZF,20,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+ZF Machine,ELECTRIC COMPONENTS,11,Ventilator measuring computer : Change filter,ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,ELECTRIC COMPONENTS,13,Cooling system swith cabinet: Check cooling function; Change filter,ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,ROBOT UNIT,1,Every unit: Check all units for damage / exceeding wear and loose / missing parts,ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,ROBOT UNIT,2,Hose Package: Check for wear and smooth movement,ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,In-conveyor roboter-marking unit,4,Toothed belt disc: Clean and replace if necessary,ZF,60,1E,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,COUNTERHOLD,5,"Guide carriages and rails: Clean, check for damage and replace if necessary",ZF,20,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,DRIVE,1,"Guide carriages and rails: cean , check for damage and replace if necessary",ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,DRIVE,2,friction lining: check for wear and replace if necessary,ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,Horizontal carriage Geometry measuring unit,4,"Guide carriages and rails: Clean, check for damage and replace if necessary",ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,Vertical carriage Geometry measuring unit,5,"Ball screw: Clean, check for damage and replace if necessary",ZF,20,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,DRUM COMPL.,11,Load wheel surface (Pos. 200): Check axial run-out of the drum,ZF,60,1E,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,
+ZF Machine,DRUM COMPL.,13,"Force sensor: Clean, check for visible damage and replace if necessary",ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,TEMP MEASURE DEV.,19,Function: Clean the lens,ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,SOAP SOLUTION SUPPLY,1,"Collecting pan,filter,pump:Clean inner surfaces of the soap tank & check wear's hoses",ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,MEASURING STATION LUB6TBR,2,Every unit: Check all units for damage/exceeding wear and loose/missing parts,ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,IN-CONVEYOR,4,Toothed belt disc: Clean and replace if necessary,ZF,60,1E,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,CARRIAGE,5,"Guide carriages and rails: Clean,check for damage and replace if necessary",ZF,20,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,LIFTING UNIT,11,"Toothed bar drive: Clean,check for damage and replace if necessary toothed bar,toothed wheel,lubrication wheel",ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,BEARING,13,Spindle thread: Clean the threadwith a bish and multispray and lubricate the thread,ZF,60,1E,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+ZF Machine,BEARING,19,Screw connection: check scew tightening torque,ZF,60,1E,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,SOAP STATION,1,Toothed belt : Clean and replace if necessary,ZF,60,1E,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,SOAP STATION,2,Toothed belt disc :Clean and replace if necessary,ZF,60,1E,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,SOAP STATION,4,roller:Clean and replace if necessary,ZF,60,1E,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,SOAP STATION,5,transmission wheels:Clean and replace if necessary,ZF,20,1E,26,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,LIFTING UNIT,11,"Function: check ease of movement, hose laying, damages",ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,CENTERING DEVICE,13,"Ball screw: Clean, check for damage and replace if necessary",ZF,60,1E,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+ZF Machine,SOAPING DEVICE,19,"Guides,rail guide,carriage,bushing &guide bolt: Clean,check function of all guides rails & carriages",ZF,60,1E,4,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x,,,,x
+ZF Machine,SOAPING DEVICE,20,Roller: Check for wear,ZF,60,1E,13,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,x,

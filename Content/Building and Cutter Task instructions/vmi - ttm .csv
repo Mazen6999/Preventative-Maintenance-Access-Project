@@ -1,0 +1,88 @@
+﻿Header,Task_Code,Task_Title,Crafts,Frequency,Time,Section,Discipline,Warning_Text,Steps_Text,issue,Issue_No,Issue_Date,Reviewed_By,Approved_By
+Fo-I/E-24   Issue(1)   Rev(0),800,Check bobbin carriage shock absorber,1 Mechanic,4 Week,25 min,P. Maintenance of  VMI,Mechanical,,"1- Manually check the operation of the shock absorber.
+2- if its too smooth replace the oil and if its too hard check the spring and rod
+alignment",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),801,Lubricate the bobbin carriage centering bearing,1 Mechanic,52 Week,15 MIN,P. Maintenance of  VMI,Mechanical,,Use the hand grease gun and lubricate the bearing with Mobil B2,Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),802,Check the bobbin carriage movement speed,1 Mechanic,4 Week,15 MIN,P. Maintenance of  VMI,Mechanical,,"Move the carriage in and out and adjust if required using the flow
+regulator located on the cylinder both ends",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),803,Lubricate the bobbin carriage liner bearing,1 Mechanic,12  Week,20 min,P. Maintenance of  VMI,Mechanical,,Use the hand grease gun and lubricate the bearing with Mobil B2,Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),804,Change the myler gearbox oil,1 Mechanic,52 Week,45 min,P. Maintenance of  VMI,Mechanical,,"1- remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),805,Lubricate the metal chain for myler motor,1 Mechanic,52 Week,15 min,P. Maintenance of  VMI,Mechanical,Change the machine into manual mode,"1- Remove the chain cover
+2- Put enough amount of grease on the chain
+3- Put the cover back",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),806,Change the let off gearbox oil,1 Mechanic,52 Week,45 Min,P. Maintenance of  VMI,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),807,Change the angle motor gearbox oil,1 Mechanic,52 Week,45 min,P. Maintenance of  VMI,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),808,Change the windup motor gearbox oil,1 Mechanic,52 Week,45 min,P. Maintenance of  VMI,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),810,Check the magnet cylinders,1 Mechanic,4 Week,15 min,P. Maintenance of  VMI,Mechanical,,"1- Check on the movement of the magnets up and down
+2- Adjust the speed of both or one of them if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),811,Lubricate the feeding guide screw,1 Mechanic,52 Week,15 min,P. Maintenance of  VMI,Mechanical,,Put enough amount of grease OMEGA 77 on the screw,Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),812,Check the magnet tray roller,1 Mechanic,4 Week,15 min,P. Maintenance of  VMI,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),813,Check the feeding movement speed,1 Mechanic,4 Week,15 min,P. Maintenance of  VMI,Mechanical,,"Move the feeding magnet forward and backward and adjust if
+required using the flow  regulator located on the cylinder both ends",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),814,Check feeding cylinder shock absorber,1 Mechanic,4 Week,25 min,P. Maintenance of  VMI,Mechanical,,"1- Manually check the operation of the shock absorber.
+2- if its too smooth replace the oil and if its too hard check the spring and rod
+alignment",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),815,Check the bushes of the feeding screw,1 Mechanic,4 Week,30 min,P. Maintenance of  VMI,Mechanical,,"1- Move the feeding cylinder and check the bushes conditions
+2- Replace the bushes in case if they are loose",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),816,Lubricate the metal chain for feeding screw motor,1 Mechanic,52 Week,15 min,P. Maintenance of  VMI,Mechanical,Change the machine into manual mode,"1- Remove the chain cover
+2- Put enough amount of grease on the chain
+3- Put the cover back",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),817,Change the feeding screw motor gearbox oil,1 Mechanic,52 Week,30 min,P. Maintenance of  VMI,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),820,Check the blades hydraulic cylinders,1 Mechanic,4 Week,15 min,P. Maintenance of  VMI,Mechanical,,"1- Check the condition of the fixation hinges of the hydraulic
+cylinder
+2- Replace the hinge if it's loose
+3- Replace the cylinder for irregular movement",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),821,Check the condition of the belt tray and its cylinder,1 Mechanic,4 Week,30 min,P. Maintenance of  VMI,Mechanical,,"1- Move the cylinder up and down and check the stoppage
+positions of the tray
+2- Adjust the tray position using the fixation pallet of the
+cylinder
+3- Check the belt for wear and replace if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),822,Check the smooth movement of the jumping tray,1 Mechanic,4 Week,20 min,P. Maintenance of  VMI,Mechanical,,"1- Check the movement of all trays and check the supply air hose if
+required
+2- Adjust all trays on the same level with the fixed tray and blade
+edge",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),823,Check safety guard for blades,1 Mechanic,4 Week,15 min,P. Maintenance of  VMI,Mechanical,,"1- Check the fixation of the transparent covers
+2- Check the limit switch actuation pallet",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),830,Check the conditions of the splicing unit,1 Mechanic,4 Week,30 min,P. Maintenance of  VMI,Mechanical,,"1- Check the condition of the splicing gears and replace if required
+2- Check the clearance of splicing gears and adjust if required
+3- Check splice guide cylinder efficiency and replace if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),831,Check the V belt condition of the supply belt,1 Mechanic,12 Week,15 min,P. Maintenance of  VMI,Mechanical,Put the machine in manual mode,"Remove the cover of the belt and check for belt condition for
+scratches or wear and replace if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),832,Check the V belt condition of the discharge belt,1 Mechanic,12 Week,15 min,P. Maintenance of  VMI,Mechanical,Put the machine in manual mode,"Remove the cover of the belt and check for belt condition for
+scratches or wear and replace if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),835,Check strip timing belt,1 Mechanic,12 Week,20 min,P. Maintenance of  VMI,Mechanical,Put the machine in manual mode,"Remove the cover of the belt and check for belt condition for
+scratches or wear and replace if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),836,Check the condition of the air turbine,1 Mechanic,12 Week,30 min,P. Maintenance of  VMI,Mechanical,,"Open the turbine and check its rotating fins for wear and
+replace if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),837,Check the strip tray roller,1 Mechanic,4 Week,15,P. Maintenance of  VMI,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,9/12/2015,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),838,Lubrication of caution bearing,1 Mechanic,12 Week,15,P. Maintenance of  VMI,Mechanical,,Use the hand grease gun and lubricate the bearing with Mobil B2,Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),839,Check the free movement of the strip centering device,1 Mechanic,4 Week,20 min,P. Maintenance of  VMI,Mechanical,,"Check the movement of the centering device for damaged
+bearings or guides",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),845,Check the wind up tray roller,1 Mechanic,4 Week,20 min,P. Maintenance of  VMI,Mechanical,,"Check the condition of the rollers and its bearings and replace
+if required",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),846,Change the bobbin gearbox oil,1 Mechanic,52 Week,60 min,P. Maintenance of  VMI,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),847,Change the rotating tray gearbox oil,1 Mechanic,52 Week,60 min,P. Maintenance of  VMI,Mechanical,,"1- Remove the drain plug and dump the used oil
+2- Refill the gearbox with new oil Mobil 632",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),848,Clean the rotating tray area,1 Mechanic,4 Week,10 min,P. Maintenance of  VMI,Mechanical,,"Remove any dirt in the rotating tray gear area to ensure smooth
+operation",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),849,Check bobbin rotating tray shock absorber,1 Mechanic,4 Week,25 min,P. Maintenance of  VMI,Mechanical,,"1- Manually check the operation of the shock absorber.
+2- if its too smooth replace the oil and if its too hard check the spring and rod
+alignment",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),855,General air leakage check,1 Mechanic,4 Week,40 min,P. Maintenance of  VMI,Mechanical,,"1- Check the supply air hoses for leakage
+2- Check the oil level in the air lubricator",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),856,Check hydraulic oil level,1 Mechanic,4 Week,15 min,P. Maintenance of  VMI,Mechanical,,Check the level and refill if required with Mobil DTE 26,Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),857,Change the hydraulic oil,1 Mechanic,52 Week,30 min,P. Maintenance of  VMI,Mechanical,,"1- Remove the drain plug at the bottom of the tank
+2- Refill the tank with oil Mobil DTE 26",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),858,Lubricate all machine bearing housing,1 Mechanic,26 Week,30 min,P. Maintenance of  VMI,Mechanical,,"Use the hand grease gun to lubricate the bearing housing till the
+new grease appears around the bearing",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
+Fo-I/E-24   Issue(1)   Rev(0),859,General machine cleaning with air,1 Mechanic,4 Week,45 min,P. Maintenance of  VMI,Mechanical,,"1- Clean beneath the belt tray
+2- Clean beneath the feeding magnet and tray
+3- Clean the strip area",Ahmed Mosaad,1,9/12/2023,Ahmed Metwally,Tareq Moustafa
